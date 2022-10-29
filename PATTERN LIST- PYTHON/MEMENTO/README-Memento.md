@@ -5,4 +5,5 @@
 >La cuidadora, esta contiene la información de cuándo y por qué debería restaurarse el estado original.
 >Y por último se lleva a cabo la implementación, entonces primero la clase de memento tiene que anidarse dentro de la original permitiéndole a ésta acceder a campos y métodos de la clase de memento, permitiendo que la cuidadora tenga un acceso limitado a estos campos y métodos lo que a su vez permite el almacenar mementos en una pila sin alterar su estado.
 >Este patrón es utilizado cuando se quiere generar instantáneas del estado actual del objeto para así poder generar una restauración del estado previo del objeto.
->image.png
+
+>![image](https://user-images.githubusercontent.com/107563234/198852144-f2fae7c9-351c-4997-a571-eacfe34ffde6.png)
