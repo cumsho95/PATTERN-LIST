@@ -3,4 +3,5 @@
 >Su estructura es la siguiente: Modelo, el cual es el que contiene las entidades que representa el dominio, la lógica del negocio y mecanismos de permanencia del sistema.
 >Vista, en esta se pueden encontrar los componentes que generaron la interfaz con el exterior, en pocas palabras con la UI de la aplicación.
 >Controlador, en este se encuentran los componentes que pueden procesar las interacciones del usuario como consultas, actualizaciones, etc..., y de esta forma pueden elegir las vistas adecuadas para cada petición.
->image.png
+
+>![image](https://user-images.githubusercontent.com/107563234/198852226-55db7509-8649-451d-b870-cd205b266503.png)
