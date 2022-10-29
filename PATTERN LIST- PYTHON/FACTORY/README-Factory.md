@@ -4,4 +4,5 @@
 >Los productos concretos lo cual se refiere a las diversas implementaciones de la interfaz del producto.
 >La clase (creadora) que se encarga de declarar el método de fábrica que devuelve los datos nuevos del producto.
 >Los creadores concretos son los que se encargan de sobrescribir el Factory para que se pueda retornar un producto con (tipo) diferente. 
->image.png
+
+>![image](https://user-images.githubusercontent.com/107563234/198852112-40e399e5-ca03-4eee-8be0-93eb68631c51.png)
