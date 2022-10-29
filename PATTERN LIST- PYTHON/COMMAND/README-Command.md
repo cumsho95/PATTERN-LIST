@@ -6,4 +6,5 @@
 >Luego están los comandos concretos, estos implementan varios tipos de solicitudes, en pocas palabras tienen que hacer un llamado a uno de los objetos. Y para poder ejecutar esta parte se necesitan de unos parámetros en el objeto receptor los cuales se pueden declarar como campos de comando concreto.
 > Después está la clase receptora, que es la que contiene una parte lógica del negocio, en esta clase la mayoría de los objetos pueden ejercer un papel de receptor.
 >Y por último el cliente, el cual se encarga de crear y configurar los objetos definidos de los comandos concretos, y para esto debe  entregar todos los parámetros de la solicitud y una vez obtenidos los resultados estos pueden asociarse con varios emisores.
->image.png
+
+>![image](https://user-images.githubusercontent.com/107563234/198851789-448f21a4-3486-47dc-a22e-c802b0f87846.png)
