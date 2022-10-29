@@ -5,4 +5,5 @@
 >El sujeto concreto, Este mantiene un estado beneficioso para los observadores concretos y así mismo los notifica si su estado se altera.
 >Y los observadores concretos, que son los que mantienen referenciado al sujeto concreto para poder implementar la interfaz de actualización, en pocas palabras guardan información de este objeto que observan para que puedan preguntar sobre algún cambio en este.
 >Normalmente se utiliza cuando los cambios de estado de algún objeto necesitan cambiar a otros objetos desconocidos del grupo.
->image.png
+
+>![image](https://user-images.githubusercontent.com/107563234/198852256-579f3d50-9258-4e0b-8211-774a247fec2a.png)
