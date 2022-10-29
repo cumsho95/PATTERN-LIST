@@ -5,4 +5,5 @@
 >La clase (Decorada-base), esta cuenta con un campo definido para poder referenciar un objeto envuelto, este tipo de campo se declara como una interfaz del componente para que así esta pueda contener los decoradores y los componentes. Esta clase puede delegar las operaciones de un objeto envuelto.
 >Luego vienen los Decoradores concretos, los cuales definen las funcionalidades adicionales que se permiten agregar de manera dinámica a los componentes, estos decoradores sobreescriben métodos y ejecutan su comportamiento.
 >y por último el cliente, que es el que tiene la posibilidad de envolver los componentes en varias capas de decoradores, con la condición de que en todo momento se trabaje con todos los objetos a través de la interfaz denominada del componente.
->image.png
+
+>![image](https://user-images.githubusercontent.com/107563234/198851888-acaea88c-c840-480d-9c3e-d1ed0f8e268e.png)
