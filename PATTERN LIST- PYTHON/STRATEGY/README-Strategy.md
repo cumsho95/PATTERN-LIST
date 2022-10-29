@@ -4,4 +4,5 @@
 >La interfaz estrategia, esta puede declarar un método que utiliza la clase contexto para poder ejecutar una estrategia.
 >Las estrategias concretas. Son las que implementan diversas variaciones de un algoritmo el cual es utilizado por la clase contexto.
 >Y el cliente, el cual se encarga de crear un objeto de estrategia para luego pasarlo a la clase de contexto par que así la clase contexto pueda utilizar un modificador (set) el cual le va a permitir a los clientes reemplazar la estrategia que está asociada al contexto (esto durante el proceso de ejecución).
->image.png
+
+>![image](https://user-images.githubusercontent.com/107563234/198852423-b719ddf3-338a-4dab-a7f7-006cf5e826a8.png)
