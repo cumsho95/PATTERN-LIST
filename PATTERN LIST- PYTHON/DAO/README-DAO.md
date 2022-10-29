@@ -5,4 +5,5 @@
 >Data Access Object, este representa una capa de acceso a los datos que la fuente oculta y también lo detalles para la recuperación de datos.
 >Transfer Object, este implementa el patrón de (DTO) que cumple la función de transmitir la información entre DAO y Business Service.
 >Y por último tenemos al DataSource, el cual es el que representa de una manera abstracta la fuente de datos.
->image.png
+
+>![image](https://user-images.githubusercontent.com/107563234/198851836-993f6e33-a8ee-4c1d-b466-cc659e1db0b8.png)
