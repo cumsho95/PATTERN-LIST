@@ -5,4 +5,5 @@
 Luego viene el servicio, que es la clase que proporciona la lógica del negocio útil.
 >Después está la clase proxy que al finalizar su proceso genera una solicitud al objeto de servicio.
 >Y por último el cliente, el cual funciona con ayuda de los servicios y proxies mediante una misma interfaz, generando así que se pueda pasar el proxy a cualquier código que espere a un objeto de servicio.
->image.png
+
+>![image](https://user-images.githubusercontent.com/107563234/198852356-6fbe7f13-c60f-4764-8c99-cfb73c041717.png)
